@@ -16,7 +16,6 @@ npm install
 npm start
 ```
 
-## [Blog Post](https://geekrodion.com/blog/breakout-game)
 
 ## License
 Copy-rights by Dharmaraj.G
